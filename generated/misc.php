@@ -256,7 +256,7 @@ function hrtime(bool $as_number = false)
  *
  *
  * Z
- * NUL-padded string (new in PHP 5.5)
+ * NUL-padded string
  *
  *
  * @
